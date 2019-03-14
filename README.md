@@ -1,1 +1,1 @@
-# STATLABScascading
+#  Bash script
